@@ -34,10 +34,15 @@
   },
   "homepage": "https://github.com/ivanvanderbyl/authentiq",
   "devDependencies": {
+    "babel": "^4.3.0",
+    "babel-core": "^4.3.0",
     "babel-jest": "^4.0.0",
+    "babel-loader": "^4.0.0",
+    "babel-runtime": "^4.3.0",
     "jest": "^0.1.37",
     "jest-cli": "^0.3.0",
-    "mocha": "^2.1.0"
+    "mocha": "^2.1.0",
+    "webpack": "^1.5.3"
   },
   "dependencies": {
     "bluebird": "^2.9.12",
